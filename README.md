@@ -16,9 +16,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na Uninassau, com formação técnica em Informática pela ECIT Francisco Ernesto do Rêgo, em Queimadas, PB.
 
-Atuo como estagiário de TI na Prefeitura de Queimadas, no setor de educação, onde sou responsável pela sala maker da Escola Alzira Maia. No dia a dia, organizo e ministro aulas de informática básica e metodologia maker para crianças do ensino fundamental — uma experiência que exige tanto domínio técnico quanto comunicação e didática.
+Atuo como estagiário de TI na Prefeitura de Queimadas, no setor de educação, onde sou responsável pela sala maker da Escola Alzira Maia. No dia a dia, organizo e ministro aulas de informática básica e metodologia maker para crianças do ensino fundamental sendo uma experiência que exige tanto domínio técnico quanto comunicação e didática.
 
-Tenho interesse em desenvolvimento back-end e banco de dados, e estou em busca da minha primeira oportunidade CLT em tecnologia.
+Tenho interesse em desenvolvimento back-end e banco de dados, e estou em busca de oportunidades em empresas de tecnologia.
 
 ---
 
@@ -35,5 +35,5 @@ Tenho interesse em desenvolvimento back-end e banco de dados, e estou em busca d
 ---
 
 <div align="center">
-<sub>Portfólio em construção — em breve por aqui.</sub>
+<sub>Portfólio em construção - em breve por aqui.</sub>
 </div>
