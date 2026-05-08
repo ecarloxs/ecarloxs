@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Carlos%20Emanuel&fontSize=36&fontColor=e6edf3&fontAlignY=40&desc=Estudante%20de%20ADS%20%C2%B7%20Estagi%C3%A1rio%20de%20TI%20%C2%B7%20Back-end%20%26%20Banco%20de%20Dados&descAlignY=62&descSize=14&descColor=8b949e&stroke=58a6ff&strokeWidth=2" width="100%" />
+# Carlos Emanuel Silva Pereira
+
+**Estudante de ADS · Estagiário de TI · Back-end & Banco de Dados**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ecarloxs--dev-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ecarloxs-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-ce869955%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ce869955@gmail.com)
@@ -36,8 +38,9 @@ Tenho interesse em desenvolvimento back-end e banco de dados, e estou em busca d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecarloxs&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarloxs&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ecarloxs&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117&cache_seconds=1800)](https://github.com/ecarloxs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecarloxs&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&cache_seconds=1800)](https://github.com/ecarloxs)
 
 </div>
 
